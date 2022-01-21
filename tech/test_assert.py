@@ -1,7 +1,7 @@
 import pytest
 
 def test_1():
-    assert 2+4 == 8
+    assert 2+4 == 6
 
 def test_2():
     print('测试2')
